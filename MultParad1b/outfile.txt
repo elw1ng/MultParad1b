@@ -1,0 +1,1738 @@
+" - 4
+"'best - 5
+"'if - 2
+"[the] - 3
+"a - 2, 4
+"ark, - 4
+"attuiare - 4
+"audacity", - 2
+"because - 3
+"being - 1
+"beyond - 3
+"bowel", - 3
+"dar - 2
+"darkens" - 3
+"dexterity", - 1
+"die - 4
+"education", - 2
+"enciclopedia - 4
+"epistles - 4
+"flother". - 4
+"frecuencia - 4
+"glass". - 3
+"günther - 4
+"hapax - 1, 3, 4
+"historical - 4
+"hollis - 4
+"honorificabilitudinitatibus" - 2
+"impedes". - 3
+"latrine" - 3
+"latrine".[24][25] - 3
+"little - 3
+"lonely - 2
+"matrimonial", - 1
+"meaning - 3
+"muspille", - 2
+"new - 3
+"of - 2, 3
+"passing - 3
+"romanism" - 3
+"scroll - 5
+"sleep-weary", - 2
+"tertullian: - 4
+"the - 2, 3, 4, 5
+"thief"[45] - 3
+"this - 4
+"to - 3
+"true" - 3
+"university - 4
+"very - 3
+"weary - 2
+"伯氏吹埙，仲氏吹篪", - 2
+#169.[28] - 3
+& - 4
+'hamlet' - 2
+'said - 3
+("a - 3
+("law - 3
+("uno - 3
+(/ˈdɪs/, - 1
+(/ˈhæpəks - 1
+(1446).[37] - 3
+(1879) - 4
+(1896:418), - 4
+(1920). - 4
+(1921)[8] - 1
+(1953), - 4
+(1954). - 4
+(1968). - 4
+(1st - 5
+(2009). - 4
+(2013): - 4
+(2014-04-15). - 5
+(2015-09-03). - 4
+(2020). - 4
+(276–324 - 2
+(a.l. - 4
+(although - 2
+(and - 2
+(archive) - 5
+(bavarian - 2
+(c. 1000 - 2
+(circa - 2
+(e.g. - 3
+(ed.), - 4
+(ethnonyms - 4
+(fall - 4
+(for - 1
+(from - 1
+(il. - 4
+(in - 4
+(jhapax) - 5
+(nlp), - 2
+(number)words - 5
+(on-line) - 4
+(online - 4
+(online). - 4
+(out - 3
+(oxford: - 4
+(paradiso - 3
+(particularly - 1
+(purgatorio - 3
+(q - 2
+(red). - 1
+(see - 2
+(september - 5
+(so-called - 1
+(subscription - 4
+(the - 3, 4
+(utc). - 6
+(zibaldone - 3
+(παναώριος), - 3
+(вытол) - 3
+(вытоло - 3
+(אקוט - 3
+(גבינה - 3
+(זכוכית) - 3
+(לילית) - 3
+(עֲצֵי-גֹפֶר - 3
+(الصَّمَد - 2
+(زَنْجَبِيل - 2
+(طُوْد - 2
+(Ḏū) - 2
+(ἀφεδρών) - 3
+(孤語), - 2
+- - 2, 4, 5
+-1. - 1
+. - 4
+." - 4
+... - 4
+/ˈheɪpæks/;[1][2] - 1
+/ˈhæpæks/ - 1
+/ˈtrɪs/, - 1
+/ˈtɛtrəkɪs/) - 1
+0-262-13360-1. - 4
+0-415-22210-9, - 4
+0-7486-2018-4. - 4
+0-8091-3975-8, - 4
+0-88207-812-7. - 4
+1 - 1, 3
+1,480 - 3
+1,500 - 2
+1-84628-985-8. - 4
+1.9. - 3
+10 - 3
+10% - 1
+10.4 - 1
+106:1, - 2
+1097 - 3
+10:10. - 3
+11 - 3
+11, - 1, 4
+110, - 1
+112:2). - 2
+113, - 1
+114–115 - 3
+11:3, - 3
+12 - 3, 6
+12. - 4
+121r) - 2
+1220–1240, - 3
+1275).[16][17] - 2
+13, - 1
+14 - 4, 5
+14098, - 2
+15% - 1
+15, - 5
+15:17 - 3
+16th - 3
+17%, - 1
+1820). - 3
+1896, - 1
+19 - 4
+191 - 3
+1921. - 4
+1971 - 3
+1971. - 4
+1972 - 3
+1982; - 4
+1983, - 4
+1999, - 4
+19:51 - 6
+2 - 1, 3
+2.1 - 4
+2001, - 4
+2002, - 4
+2003), - 4
+2006, - 4
+2008, - 4
+2008: - 4
+2009 - 4
+2011) - 4
+2011-04-08 - 4
+2012 - 4
+2012), - 4
+2012-10-19 - 4
+2013, - 4
+2014-04-14. - 4
+2014-06-06. - 4
+2014–15 - 3
+2015 - 3
+2015). - 5
+2015-10-15 - 5
+2015-11-28. - 4
+2015. - 4, 5
+2016-03-04. - 4
+2016-04-09. - 4
+2017-04-11 - 5
+2017-10-28. - 4
+2017-11-07 - 4
+2017. - 4
+2018-11-03 - 4
+2018-11-17. - 4
+2019-01-28. - 4
+2020-01-01 - 4
+2020-01-27. - 4
+2020-04-30. - 4
+2020-05-05. - 4
+2020-10-29. - 4
+2020-11-04. - 4
+2020. - 5
+2021-02-01. - 5
+2021-02-08. - 5
+2021-05-13. - 5
+2021-05-15. - 4
+2022, - 6
+2022-05-19. - 5
+2022-06-01. - 4
+20th - 2
+21:87) - 2
+22, - 4
+222-245. - 4
+22:17, - 2
+23, - 1
+24.540) - 4
+25). - 3
+252 - 4
+26 - 4
+26:63). - 2
+27 - 5
+28 - 6
+28:17. - 3
+29 - 4
+2:102, - 2
+2:185, - 2
+2nd - 4
+3 - 1
+3, - 5
+3. - 3
+3.0; - 6
+3.1 - 1
+3.10 - 1
+3.11 - 1
+3.2 - 1
+3.3 - 1
+3.4 - 1
+3.5 - 1
+3.6 - 1
+3.7 - 1
+3.8 - 1
+3.9 - 1
+303 - 3
+30:2, - 2
+327–350. - 4
+33. - 1
+330-331. - 4
+34, - 1
+34:14, - 3
+38, - 1
+38–4. - 4
+3:96, - 2
+3–25 - 4
+4 - 1
+40% - 1
+400 - 2, 3
+41, - 1
+428 - 4
+43 - 1
+44% - 1
+48). - 3
+48:24, - 2
+4:51), - 2
+5 - 1
+5, - 1
+50,000 - 1
+53, - 1
+54 - 3
+57: - 2
+6 - 1, 4
+60% - 1
+600 - 3
+611. - 4
+62 - 3
+686 - 3
+6:11 - 3
+6:14, - 3
+7 - 1, 4
+70, - 3
+71:23), - 2
+72, - 4
+76:17). - 2
+78 - 4
+7:19, - 3
+7th - 3
+8 - 3, 4
+8,679 - 3
+81, - 4
+82, - 1
+83:27), - 2
+860, - 4
+868".[19] - 3
+87. - 4
+89:7, - 2
+95:10. - 3
+978-0-8091-3975-0. - 4
+9780141979755. - 4
+9780199812790. - 4
+99, - 1
+9th-century - 2
+:: - 4
+[1] - 4
+a - 1, 2, 3, 4, 6
+abbreviated - 1
+abhandlungen - 4
+ablative - 3
+about - 1, 2, 4, 5
+accepted - 2
+according - 3, 4
+account - 1, 5
+accuia - 3
+ad) - 2
+added - 2
+additional - 6
+adjective - 2, 3
+affects - 2
+afraid - 2
+after - 3, 5
+again - 2
+agree - 6
+aid - 4
+aide-memoire, - 3
+aisladas, - 4
+akademie - 4
+akut - 3
+alex - 4
+all - 2, 3, 4
+also - 1, 2, 3
+also: - 2
+alternative - 3
+although - 1, 2, 3
+am - 2
+american - 1
+among - 1, 2
+amount - 2
+an - 1, 2, 3
+an-nūn - 2
+analysis - 2, 4, 5
+ancient - 1, 2, 3
+and - 1, 2, 3, 4, 5, 6
+andremo - 2
+andrew - 4
+andrey - 3, 4
+andrás - 4
+anne - 4
+another - 1, 3
+answer - 3
+answer". - 4
+answers - 4
+answers". - 5
+anthroponyms - 4
+any - 1, 2
+anything - 2
+anywhere - 3
+apart - 1
+aphedrōn - 3
+apparently - 2, 3
+appear - 1
+appear. - 2
+appearance - 1
+appearance, - 3
+appearing - 3
+appears - 2, 3
+application, - 2
+apply. - 6
+approximate - 1
+april - 4, 5
+ar-rūm - 2
+arab - 3
+arabic - 1, 2
+archived - 4, 5
+are - 1, 2, 3, 4
+arepo - 3
+argued - 1
+arguments - 4
+arise. - 2
+ark - 3
+armor, - 3
+around - 4
+article - 4, 5
+articletalk - 5
+as - 1, 2, 3, 5
+ask - 3
+associated - 2
+astynomeninschrift - 4
+astynomis - 3, 4
+at - 1, 3, 4, 5, 6
+atafea - 3
+attested - 2
+attribution-sharealike - 6
+attuia - 3
+atzei - 3
+audience: - 2
+august - 5, 6
+augustine's - 3
+australia - 4
+authenticity". - 4
+author - 1, 2
+author's - 1, 2
+author, - 1, 2
+authority - 5
+authors - 2
+authorship - 1, 2, 4
+available - 6
+avant-garde - 3
+average - 1
+aṣ-ṣamad - 2
+b. - 4
+babylon), - 2
+back-formation - 2
+backwards. - 3
+baker, - 4
+bakka(t) - 2
+bakkah), - 2
+bark - 3, 4
+bathing, - 4
+baths, - 4
+bauckham - 4
+bc) - 2
+be - 1, 2, 3
+became - 3
+because - 3
+become - 3
+becoming - 3
+been - 2, 3
+before - 2
+beginners. - 4
+being - 3
+believed - 3
+benefit - 2
+berlin. - 4
+besought) - 2
+beyond - 3
+beyond. - 4
+bible - 1, 3, 4
+bible, - 2, 3
+biblical - 1, 3
+birch - 3, 4
+blackwell, - 4
+blasco - 3
+blue). - 1
+body - 1
+book - 3, 4
+book. - 2, 4
+born - 3
+both - 2
+bram - 2
+brevity - 2
+brief - 4
+briefly - 3
+britain - 3
+brown - 1, 4
+but - 1, 2, 3
+by - 1, 2, 3, 4, 6
+byzantine - 2
+bābil - 2
+c. - 4
+c.t. - 4
+ca. - 3
+caius - 3
+calculated - 1
+calculating - 5
+called - 3
+can - 1, 2, 3
+carmina, - 3
+carmina. - 3
+case - 2
+cases - 2
+castellammare - 3
+castellano." - 4
+casts - 3
+categories: - 5
+catholic - 4
+catullus's - 3
+caught" - 3
+century - 2, 3
+certain - 4
+challenge - 3, 4, 5
+challenges - 1
+chance - 2
+change. - 2
+changes - 5
+character - 2
+characteristic - 1
+characters - 1, 2, 4
+characters", - 2
+charge - 4
+chaucer. - 2
+cheese) - 3
+chinese - 1, 2, 4
+chomneibi, - 3
+christmas - 2
+christopher - 4
+cite - 5
+cited - 3
+clan", - 2
+claras - 3
+clarendon - 4
+classic - 2
+classical - 2, 3
+cle - 4
+clear/transparent - 3
+clerks - 3
+clm - 2
+clue - 2
+clueless, - 2
+clyde - 3, 4
+co., - 4
+coins - 1
+col. - 1
+collected - 4
+colville, - 3, 5
+commedia - 3
+commentary. - 4
+commentary: - 4
+common - 2, 3
+common, - 1
+commonly - 1
+commons - 6
+community - 5
+comparison - 1
+complex - 2, 4
+computational - 2
+computer - 1, 2
+con - 4
+conceived - 2
+concerning - 4
+confessions. - 3
+confirmed - 3
+conjunction - 3
+consider - 1
+considerable - 2
+considerably - 1
+considered - 2, 3
+construct - 2
+contact - 5
+contains - 2, 3
+contents - 1, 5
+contestant - 5
+contested - 3
+context - 3
+context: - 1
+contexts - 1
+contexts. - 2
+contribute - 5
+contributions - 5
+control: - 5
+cook, - 4
+cor. - 1
+coriander.[36] - 3
+corpora, - 1
+corpora. - 2
+corpus - 1, 2, 3, 4, 5
+corpus, - 2
+corpus.[6] - 1
+correct - 3
+could - 2
+count - 2, 3
+course - 2
+create - 5
+creative - 6
+crystal. - 3
+cugusi - 4
+culture - 1, 3
+currency - 1
+current - 5
+cynthia - 4
+cypress.[27] - 3
+d. - 4
+daily - 5
+dante's - 3
+dantesca"". - 4
+dated - 3
+david - 4
+de - 3, 4
+debate - 2
+decipher, - 1
+defense - 4
+defined - 3
+del - 4
+demo - 2
+denne - 2
+denotes - 3
+deproeliantis, - 3
+deproelior, - 3
+der - 4
+derive - 3
+derived - 3
+derives - 3
+derose. - 4
+describe - 1, 2
+describes - 3
+describing - 3
+description - 2
+desea"). - 3
+design - 4
+desired. - 2
+desolation - 3
+despite - 3
+determination - 2
+determining - 1
+deutschen - 4
+di - 3
+diagram - 1
+dickens's - 2
+dictionary - 4
+dictionary, - 4
+dictionary. - 4, 5
+dictionary.[43] - 3
+dictionary.com - 4
+differences - 1
+different - 2
+differently, - 3
+differs - 1
+difficult - 1, 2
+difficulty - 2
+diminutive - 3
+directly - 2
+dis - 1
+discovery - 2
+discussion). - 2
+disparate - 2
+disregard - 2
+distinct - 1, 3
+divina - 3
+doctoral - 4
+does - 3
+dog - 2
+dogs, - 2
+doing - 2
+donate - 5
+double, - 1
+download - 5
+dracula, - 2
+due - 1, 3
+e - 3, 4
+e. - 2
+e.g. - 4
+each - 1
+easier - 1
+east”,[32][33] - 3
+ed, - 4
+ed.). - 4, 5
+edinburgh - 4
+edit - 5, 6
+edited - 6
+edition - 2
+edition), - 1
+edition, - 4
+edom. - 3
+effect - 3
+effects.[38] - 3
+effort.[citation - 2
+either - 1
+ejemplos - 4
+el - 4
+elmaz. - 4
+else - 3
+else, - 3
+empire), - 2
+employer, - 2
+enchant - 3
+encyclopedia - 1, 2, 3, 4
+encyclopedia, - 4
+encyclopedia. - 4
+english - 1, 2, 3, 4
+english, - 1
+entire - 1
+entitled - 2
+entry - 3
+eoigena, - 3
+eoigena. - 4
+eph. - 1
+epigraph - 3
+epiousios, - 3
+epistle: - 1
+epistles - 1, 2
+epistles' - 4
+epistles) - 1
+epistles, - 1, 2
+epistles. - 1, 4
+epistles." - 4
+epistles?, - 4
+epitheton - 2
+esi, - 3
+esp. - 2
+especially - 2
+essays - 4
+etc.) - 3
+etsi, - 3
+etymologists - 3
+events - 5
+ever' - 5
+exactly - 2
+example - 1, 3
+example, - 1, 2
+examples - 1, 2, 3
+examples) - 1
+exeter - 2
+expected - 2
+explain - 1
+expository - 4
+expression - 1
+external - 1, 5
+extremely - 3
+f. - 2, 4
+factors - 1
+faded - 1
+fads."[18] - 2
+family - 2
+far - 1
+feature - 2
+few - 3
+fields - 2
+fiercely" - 3
+fight - 3
+file - 5
+film - 1
+filmmaker - 3
+films - 3
+final - 2
+final, - 3
+find - 1
+finkelberg - 4
+first - 1, 2
+flother, - 2
+flute. - 2
+following - 1, 2, 3
+forger - 2
+forgers - 2
+form - 3
+formas - 4
+forms - 2
+forms.[12] - 2
+fought), - 3
+found - 1, 2, 3
+foundation, - 6
+foundationpowered - 6
+foundations - 4
+frampton - 3, 4
+free - 1, 5
+frequency - 1
+friend - 3
+from - 1, 2, 3, 4, 5
+full - 3
+full, - 4
+function - 4
+further - 2
+für - 4
+g. - 4
+gal. - 1
+gameplay.[44] - 3
+garay - 3
+genesis - 3, 4
+george; - 4
+german - 1, 2
+ghil'ad - 4
+ghostarchive - 5
+ginger) - 2
+give - 3
+giving - 3
+glance, - 1
+glare, - 4
+glass - 3
+glossary - 4
+glyphs - 1
+gonville - 3
+google - 3
+googlewhack - 3
+gopher - 3
+gospel - 3
+gramatical. - 4
+gray - 2
+greek - 1, 3
+greek, - 4
+greek–english - 4
+grounds).[11] - 2
+guo - 2
+guy - 4
+gvina - 3
+had - 2, 3
+half - 1
+hall. - 4
+hapax - 1, 2, 3, 4, 5
+hapax, - 1, 4
+hapaxes - 2
+hapaxes".[22] - 3
+hapaxes) - 1
+hapaxlegomena." - 4
+hardie, - 4
+harding. - 4
+harrison's - 1
+harrison, - 1
+harrison. - 4
+harut - 2
+has - 1, 2, 3
+have - 1, 2, 3
+he - 1, 2
+heath - 4
+hebenon, - 2
+hebrew - 1, 2, 3
+hebrew, - 3
+hebrew. - 3
+hebrew; - 1
+heden - 3
+helfan - 2
+hell - 2
+help - 5
+helping - 2
+henceforth - 3
+henry - 4
+her - 1
+here - 5
+here. - 1
+hermas. - 4
+high - 2
+him; - 2
+hinrich - 4
+his - 1, 2, 3
+historicalthesaurus.arts.gla.ac.uk. - 4
+history - 5
+hollis - 3
+homer - 4
+homeric - 4
+honorificabilitudinitatibus - 2
+honors - 4
+horace's - 3
+host - 3
+however, - 2, 3
+human" - 3
+hygiene - 4
+hápax - 4
+hārūt - 2
+i - 1, 2, 4
+i, - 3
+i: - 3
+iberoromania - 4
+identified - 3
+identity, - 1
+if - 2
+ii - 1
+iliad - 3
+iliad.[21] - 3
+imdb". - 4
+imdb. - 4
+inc., - 6
+include: - 3
+included - 3
+includes - 4
+incorrectly - 1
+indexy - 2
+indexy, - 2
+indicates - 1
+indicator. - 2
+indicators - 2
+individual. - 1
+infer - 1
+information - 5
+infrequent - 2
+initially - 3
+inscription - 3
+instead.[29] - 3
+institution - 4
+instruction - 3
+intended - 3
+internet - 3
+interpretations, - 3
+interpretationsgeschichte - 4
+interpreted - 3
+into - 3
+invented - 2
+inversely - 1
+iram - 2
+ireland - 3
+ireland". - 4
+irish - 1, 3
+irving's - 1
+is - 1, 2, 3, 6
+isaiah - 3
+isbn - 4
+israeli - 4
+it - 1, 2, 3
+it, - 1
+italian - 1, 3
+italian). - 4
+item - 5
+its - 1, 3, 4
+j. - 4
+j.h. - 4
+january - 5
+japan. - 4
+japanese - 1, 2
+java - 5
+jeremy - 3
+jewish - 2, 3, 4
+jibt - 2
+job - 3
+john - 4
+journal - 4
+jump - 1
+june, - 3
+jurafsky - 4
+just - 1, 4
+keepsake - 3
+kerr, - 4
+killing". - 3
+kind - 2
+kirsten - 4
+klaffenbach, - 4
+klasse - 4
+knowledge - 2, 4
+known - 2, 3
+known, - 3
+known.[34] - 3
+kogo - 2
+koranischen - 4
+kornai, - 4
+kosso, - 4
+kunst - 4
+l. - 4
+la - 3
+labour's - 2
+language - 1, 2, 4
+language, - 1
+languages - 2, 6
+large - 1
+las - 4
+last - 1, 6
+lat. - 4
+lath, - 3
+latin - 1, 3, 4
+latvia - 5
+law - 1
+law, - 2
+law,[4] - 1
+lawrence - 2
+learn - 5
+learned - 4
+lecture. - 4
+legomena - 1, 2, 3, 4
+legomena" - 1
+legomena".[12] - 3
+legomena, - 1, 3, 4
+legomena," - 4
+legomena. - 1
+legomena.[12] - 3
+legomena.[13] - 2
+legomena.[5] - 1
+legomena; - 1, 2
+legomenon - 1, 2, 3, 4, 5
+legomenon" - 3
+legomenon". - 4
+legomenon, - 1, 3
+legomenon. - 3
+legomenon.[15] - 2
+length - 1
+length: - 2
+leopardi's - 3
+less - 1, 2
+lewis, - 4
+lex - 3, 4
+lexicon - 4
+libraries - 5
+library - 2
+license - 6
+liddell, - 4
+likely - 2
+lilith - 3
+limited - 2
+line - 1, 2, 3
+linguistic - 4
+linguistics - 2, 4
+linguistics, - 1, 4
+linguistics1 - 5
+lingüística - 4
+link - 3, 5
+links - 1, 5, 6
+list - 3, 4
+literal - 3
+literally - 2
+literatur - 4
+literature - 2
+literature, - 3
+literature. - 3
+little - 2
+local - 3
+log - 5
+logged - 5
+lola - 4
+longer - 2
+look - 2, 5
+looked - 1
+lord's - 3
+lost - 2, 4
+lost. - 2, 3
+love's - 2
+loveday - 3
+loveday: - 4
+lucretius. - 3
+luke - 3
+luna's - 3
+lunatic - 2
+lɪˈɡɒmɪnɒn/ - 1
+m. - 4
+machine - 4, 5
+machine, - 4
+machine-learned - 2
+machine. - 4
+machine: - 5
+machine; - 5
+mactatu, - 3
+mactatus, - 3
+made - 1, 3
+magian/zoroastrian), - 2
+magic - 3
+magyar - 6
+main - 5
+majūs - 2
+mak - 2
+make - 3
+makes - 2
+makka(t) - 2
+malmkjær, - 4
+man - 2
+managed - 3
+mandelbaum). - 3
+manner", - 3
+manning - 4
+manticratic, - 2
+manuscript - 2
+manuscripts - 3
+manuscripts) - 4
+manuscripts. - 3
+manuscripts: - 4
+many - 1, 2, 3
+margalit - 4
+mark - 3, 4
+martin - 4
+marut) - 2
+marut), - 2
+mathematical - 4
+matt - 3
+matthew - 3, 5
+may - 1, 3, 4, 6
+mayan - 1
+mcenery, - 4
+mean - 3
+meaning - 1, 2, 3
+means - 2, 3
+meant - 3
+measurements. - 2
+measures - 2
+mecca), - 2
+mediawiki - 6
+medieval - 3
+membership - 4
+meme - 3
+memory - 2
+mentioned - 3
+menu - 5
+method, - 3
+michael - 3, 5
+midwestern - 4
+mirror. - 5
+mistakenly - 3
+mixed - 2
+mnemosynus, - 3
+moby-dick. - 1
+moderate - 1
+modern - 3
+more - 1, 6
+mountain) - 2
+much - 2
+muere - 3
+mugeres - 3
+multiple - 1
+muspille" - 2
+muspilli - 2
+muspilli#etymology - 2
+my - 2, 4
+mystery". - 5
+mārūt - 2
+n. - 1
+n.d. - 4
+name - 2, 3
+nasr - 2
+national - 5
+natura - 3
+natural - 1, 2, 4
+nature - 4
+navigation - 5
+navigationjump - 1
+needed] - 2
+nethack - 5
+nethack, - 3
+never - 1
+new - 3, 4
+nimac - 2
+nlp, - 2
+no - 2
+no. - 3, 4
+noah's - 3
+non-profit - 6
+non-slavic - 4
+nonce - 1, 4
+nortelrye, - 2
+north-african - 3
+nostalgia - 3
+noted - 4
+noun - 3
+nouns - 2
+novedad - 4
+novel - 1, 3
+novel, - 1
+novgorod - 4
+novgorod, - 3
+now - 2, 3
+nowhere - 3
+number - 1, 2, 3
+numbers - 1
+obviously - 2
+occur - 1, 2, 3
+occurrences, - 1
+occurs - 1, 2, 3, 4
+ode - 3
+odyssey - 3
+odyssey.[20] - 3
+often - 2
+old - 2, 4
+on. - 1
+once - 1, 2, 3
+once") - 3
+once".[3] - 1
+once', - 3
+once, - 1
+once. - 2
+once.[14] - 2
+one - 1, 2, 3, 4
+one-volume - 1
+one. - 1
+onion - 3
+only - 1, 2, 3
+open - 5
+opera - 3
+or - 1, 2, 3, 4
+oratory - 3
+ordinary - 2
+organization. - 6
+orhan - 4
+origin - 1
+original - 4, 5
+origins - 5
+ornans - 2
+other - 1, 2
+others - 3
+others.[9] - 1
+otro - 3
+out - 1, 2
+over - 2
+oxford - 3, 4
+oxford: - 4
+p. - 1, 4
+p., - 4
+p.1599. - 4
+p.n. - 4
+p431 - 4
+page - 1, 4, 5, 6
+page, - 1
+pages - 5
+pains - 2
+pallio". - 4
+pallio.[30][31] - 3
+panaōrios - 3
+panic - 5
+participating - 4
+participle - 3
+particular - 1, 2
+pastoral - 1, 2, 4
+pastorals - 2
+patterns - 2
+paul - 4
+paul", - 4
+pauline - 1, 2
+paulist - 4
+paxman - 3
+pdf - 5
+peer - 2
+penguin - 4
+per - 1
+percentage - 2
+pergamenorum - 3, 4
+pergamon") - 3
+pergamon,” - 4
+perhaps - 2
+permanent - 5
+perseus - 4
+person, - 3
+personal - 3
+peter - 3
+peter.[23] - 3
+pharr, - 3, 4
+phil. - 1
+philemon - 1
+philologica - 4
+philological, - 4
+philosophy" - 3
+pillars - 2
+pillars), - 2
+pl. - 1
+play - 2
+plays - 1
+plot - 1
+ploy, - 2
+plural - 1
+poem - 2, 3
+poetry - 2
+points - 2
+poison - 2
+policy. - 6
+policyabout - 6
+polski - 6
+pons. - 4
+popular - 1, 3
+portal - 5
+pose - 1
+possible - 3
+possibly - 3
+pp. - 4
+praised - 5
+prayer - 3
+predicted - 1
+predicts - 1
+prefixes, - 3
+prentice - 4
+presenter - 3
+press, - 4
+press. - 4
+presumably - 3
+prevalence - 1
+print/export - 5
+printable - 6
+privacy - 6
+problem - 1, 4
+problematic. - 2
+problems - 1
+processing - 2
+processing,mit - 4
+processing. - 4
+processing.[7] - 1
+project - 4
+prominent - 3
+pronunciation - 2
+proper - 2, 3
+prophet's - 2
+proportional - 1
+proposed.[35] - 3
+propuestas - 4
+prostitute", - 3
+protologism - 4
+proverb - 3
+providing - 4
+psalm - 3
+pu - 2
+publishers. - 4
+putative - 1
+quadruple - 1
+questions - 2
+quite - 1, 2
+quizzaciously - 3
+quraysh), - 2
+qurayš - 2
+qurʾān: - 2
+qurʾānic - 2
+raised - 1
+ramadan), - 2
+ramaḍān - 2
+ramogna - 3
+random - 5
+randomized - 3
+range - 2
+ranged - 1
+rank - 1
+rank-frequency - 1
+rare - 2, 4
+ratcatchers - 3
+rather - 2
+ratio - 5
+read, - 3
+readeditview - 5
+recent - 5
+reclamation - 4
+record - 1
+recorded, - 1
+redirects - 1
+reducing - 2
+reece, - 4
+refer - 1
+references - 1, 4
+referred - 2, 3
+referring - 3
+refers - 1, 3
+regarded - 3
+registered - 6
+reinforced - 1
+related - 1, 2, 5
+reliable - 2
+relying - 2
+remaining - 1
+reported - 3
+required.) - 4
+rerum - 3
+respectively - 1
+rest - 2
+result - 3
+results. - 3
+retrieved - 4, 5
+returning - 3
+returns - 3
+revivalistics: - 4
+richard - 4
+ridiculous - 4
+right.[9] - 1
+robert; - 4
+rodríguez, - 4
+roman - 3
+romanitas, - 3
+romans - 1
+root - 3
+roots, - 3
+routledge, - 4
+roy - 4
+rule - 2
+rus' - 4
+russian - 3
+s.v. - 4
+sabotagetimes.comarchived - 5
+said - 1, 3
+same - 2
+sassigassity, - 2
+satiety. - 3
+sator - 3
+saying - 4
+sblendorio - 4
+scholar - 3
+scholars - 1, 3
+scholars, - 1
+scholars. - 1
+schütze, - 4
+science - 1, 2
+scortillum, - 3
+scott - 4
+scott, - 4
+scroll - 3
+scroll. - 3
+search - 1, 3, 5
+search". - 4
+second - 1, 3
+see - 1, 2, 3
+seems - 2
+seen - 3
+series - 3
+series, - 1
+series. - 3
+set - 1
+seven - 2, 3
+several - 1, 3
+shakespeare's - 2
+shakespeare, - 1
+shilov), - 4
+short - 2
+short, - 4
+should - 1
+show - 2
+showed - 1
+sign - 2
+signature; - 2
+significance - 1
+significantly - 2
+signifiyng - 3
+signifying - 3
+similar - 1, 2
+simply - 3
+since - 1, 3
+since, - 2
+single - 1, 2, 3
+singular - 3
+site, - 6
+situational - 2
+size" - 4
+slavic - 1, 3
+sleep" - 2
+sleep". - 2
+slope - 1
+slæpwerigne, - 2
+snowflake, - 2
+so - 1, 2
+sobre - 4
+social - 3
+society, - 4
+software - 5
+some - 1, 2, 3
+sometimes - 1, 2, 3
+source - 5
+source, - 3
+spanish - 1, 3
+special - 3, 5
+specific - 2
+specifically - 3
+spectator". - 4
+speech - 4
+speech. - 1
+spelling - 3
+spouse - 2
+sprachen, - 4
+springer, - 4
+square. - 3
+st. - 4
+stabia - 3
+stabiae). - 3
+state - 2
+statementwikimedia - 6
+states - 1
+statistical - 2, 4
+status - 3
+steve. - 4
+steven - 4
+stevens - 3
+stevens, - 5
+stew - 3
+still - 3
+stoker's - 2
+story - 2
+straight - 1
+strictly - 4
+strong - 2
+struggle - 3
+student - 3
+student, - 2
+studia - 4
+studies - 2
+subject - 2
+subject-specific - 2
+subjective - 2
+subjects, - 2
+such - 1, 2, 3
+suffixes - 3
+suggest - 3
+summarized - 1
+sun - 3
+super-fast - 5
+swiftly - 3
+synonym - 2
+systems - 4
+t. - 2, 4
+table. - 1
+tafaya/attatfíha, - 3
+take - 1
+taken - 2
+talk - 5
+tasnīm - 2
+techniques. - 2
+ted - 3, 4
+teleportation, - 3
+tentatively - 3
+term - 1, 3
+terms - 1, 6
+terricrepo, - 3
+terry - 4
+tertullian's - 3
+testament - 3, 4
+testament: - 4
+tetrakis - 1
+text - 2, 5, 6
+text, - 1
+text. - 1
+texts - 1, 3
+than - 1, 2
+that - 1, 2, 3
+that, - 2
+their - 2
+them - 1
+then - 3
+theology - 4
+theory - 1
+there - 1, 2
+thesaurus - 4
+these - 2, 3
+thesis, - 4
+thess. - 1
+they - 2, 4
+thief - 5
+thing - 3
+this - 1, 2, 5, 6
+those - 2
+thought - 2
+thousands - 3
+three - 1
+through - 2
+thunderous - 3
+thus - 1
+thus, - 1
+tim. - 1
+time - 3
+time: - 2
+times - 1, 4
+times, - 4
+timothy - 4
+titled - 3
+titus - 1
+titus" - 4
+to - 1, 2, 3, 4, 5, 6
+tony - 4
+took - 4
+tools - 5
+topic: - 2
+total - 3
+totals - 1
+town - 3
+tract - 4
+trademark - 6
+transcript - 4
+translated - 3
+translation. - 1
+transliteration - 1
+transliteration, - 3
+trasumanar - 3
+tree". - 2
+triads - 3, 4
+triple, - 1
+tris - 1
+trusting - 2
+twice - 1
+twice, - 3
+two - 2
+two-word - 3
+type - 2, 3
+türkçe - 6
+uk. - 4
+ultrafilosofia, - 3
+unabridged - 4
+unclear - 2
+und - 4
+undeciphered - 1, 4
+under - 6
+understanding, - 4
+unidentified - 3
+university - 3, 4, 5
+university, - 4
+unknown - 3
+unlikely - 2
+until - 3
+untimely", - 3
+uora - 2
+up - 2, 5
+upload - 5
+upon - 2
+us - 5
+use - 2, 6
+used - 1, 2, 3
+used).[26]: 112  - 3
+used. - 1
+useful - 1
+uses - 2
+using - 6
+usually - 1, 2, 3
+valentina, - 4
+value - 2
+values. - 2
+vanishes - 3
+variables - 2
+variation - 1, 2
+variations - 1
+various - 3
+varying - 1
+verb - 3
+verse - 2
+version - 6
+videogame - 3
+videos - 3
+vienna, - 4
+view - 4
+viewdevelopersstatisticscookie - 6
+vii: - 3
+violently", - 3
+viral - 3
+virtuosas - 3
+vocabulary - 1, 2
+vol. - 4
+volcanic. - 5
+von - 4
+vs. - 2
+vsauce - 3
+vsauce; - 5
+vytol - 3
+w. - 1, 4
+walvoord - 4
+was - 1, 2, 3, 6
+watchtower - 4
+water, - 4
+way - 2
+way" - 3
+wayback - 4, 5
+ways. - 3
+weird - 4
+went - 3
+what - 3, 4, 5
+when - 1, 3
+whether - 2
+which - 1, 3, 4
+while - 3
+wide - 2
+widely - 1, 2, 3
+wiki". - 5
+wikidata - 5
+wikimedia - 6
+wikipedia - 5
+wikipedia". - 4
+wikipedia, - 1
+wikipediadisclaimerscontact - 6
+wikipediamobile - 6
+wikipedia® - 6
+wiktionary, - 5
+wilder. - 4
+will - 2
+william - 2
+winner - 4
+wisdom.[18] - 2
+wissenschaften - 4
+with - 1, 2, 3, 4
+within - 1
+wizard - 3
+won - 4
+wood - 3
+wood". - 3
+wood) - 3
+word - 1, 2, 3, 4
+word": - 2
+word, - 1
+word...".[39][40][41][42] - 3
+words - 1, 2, 3
+words), - 2
+words, - 2
+work - 1, 2
+work. - 1
+work:[10] - 1
+workman - 1
+workman'spaulinehapaxes.svg - 1
+workman'sshakespeareplays.svg - 1
+workman, - 4
+works - 1, 2
+works. - 1, 2
+world - 4
+worth - 2
+would - 2
+writer - 3
+writes - 2
+writing - 2, 4
+written - 1, 2
+wrong - 2
+www.smo.uhi.ac.uk. - 4
+www.treccani.it - 4
+xi - 2
+xi, - 3
+xv - 4
+xxii. - 4
+xxxiii, - 3
+y - 3, 4
+years, - 2
+yet - 4
+york: - 4
+you - 6
+youtube. - 5
+youtube.com - 5
+z-ch-h, - 3
+zaliznyak, - 3, 4
+zanjabīl - 2
+zechuchith - 3
+zibaldone - 3
+zipf - 5
+zipf's - 1, 2
+zu - 4
+zuck, - 4
+zuckermann, - 4
+| - 4
+§ - 1, 2
+Álvaro - 3
+Ελληνικά - 6
+λεγόμενον, - 1
+А. - 4
+АНТРОПОНИМЫ - 4
+БЕРЕСТЯНЫХ - 4
+Български - 6
+ГРАМОТ - 4
+И - 4
+Л. - 4
+НЕСЛАВЯНСКИЕ - 4
+Новгородская - 4
+Русский - 6
+Русь - 4
+Українська - 6
+Шилов - 4
+ЭТНОНИМЫ - 4
+берестяным - 4
+взгляд - 4
+г. - 4
+грамотам: - 4
+из - 4
+изловили). - 3
+по - 4
+זכה - 3
+العربية - 6
+ṭūd - 2
+ἅπαξ - 1
+ἅπαξ. - 4
+– - 2, 3
+“die - 4
+“one - 3
+″daily″ - 3
+日本語 - 6
+篪 - 2
